@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672588069 source:c:\users\satya rayyis\onedrive\dokumen\kuliah\semester3\struktur data\codeblock\tp15\main.cpp
+	"Tree.h"
+	<iostream>
+
+1672588300 source:c:\users\satya rayyis\onedrive\dokumen\kuliah\semester3\struktur data\codeblock\tp15\tree.cpp
+	"Tree.h"
+
+1672588303 c:\users\satya rayyis\onedrive\dokumen\kuliah\semester3\struktur data\codeblock\tp15\tree.h
+	<iostream>
+
